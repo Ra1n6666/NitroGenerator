@@ -1,0 +1,2 @@
+H:\NitroGen\x64\Release\NitroGen.exe
+E:\NitroGen\x64\Release\NitroGen.exe
